@@ -102,7 +102,7 @@ social:
     link: 'mailto:zihaoy.21@intl.zju.edu.cn'
   - icon: github
     icon_pack: fab
-    link: https://github.com/sdhfhue
+    link: https://github.com/zihaoye5
   - icon: weixin
     icon_pack: fab
     link: uploads/QRcode.jpg

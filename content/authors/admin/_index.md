@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Zihao Ye is currently an undergraduate student at ZJU-UIUC College. He currently participating in research projects related to robotics and have a great interest in legged robots.
+Zihao Ye is currently an undergraduate student at ZJU-UIUC College. He is currently participating in research projects related to robotics and have a great interest in legged robots.
 {style="text-align: justify;"}

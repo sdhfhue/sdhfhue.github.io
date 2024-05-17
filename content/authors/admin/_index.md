@@ -31,6 +31,7 @@ bio: Zihao Ye is currently participating in research projects related to robotic
 interests:
   - Legged Robot
   - Optimal Control for Robotics
+  - Deep Learning
 
 # Education to show in About widget
 education:
